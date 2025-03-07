@@ -1,15 +1,15 @@
-<h1 align="center">Hello 👋, This is Mert</h1>
-<h3 align="center">I'm a backend developer for Python, C++. I'm using FastAPI and Flask as backend framework.</h3>
+<h1 align="center">👋 Hello, I'm Mert.</h1>
+<h3 align="center">I'm a backend developer who writes Python and C++. I'm using FastAPI and Flask frameworks in backend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fswair&label=Profile%20views&color=0e75b6&style=flat" alt="fswair" /> </p>
 
-- 🔭 I’m currently working on [Disk Utility](https://github.com/tomrisproject/tomris-disk-utility)
+- 🔭 I’m currently working on [pysonfield](https://github.com/fswair/pysonfield)
 
 - 👨‍💻 All of my projects are available at [https://github.com/fswair?tab=repositories](https://github.com/fswair?tab=repositories)
 
 - 📝 I regularly write articles on [https://teletype.in/@gelistirmegunlugu](https://teletype.in/@gelistirmegunlugu)
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, C++, Web3**
 
 - 📫 How to reach me **contact@tomris.dev**
 
