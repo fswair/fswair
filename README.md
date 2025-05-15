@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fswair&label=Profile%20views&color=0e75b6&style=flat" alt="fswair" /> </p>
 
-- 🔭 I’m currently working on [pysonfield](https://github.com/fswair/pysonfield)
+- 🔭 I’m currently working on [VenusAI](https://github.com/fswair/VenusAI)
 
 - 👨‍💻 All of my projects are available at [https://github.com/fswair?tab=repositories](https://github.com/fswair?tab=repositories)
 
