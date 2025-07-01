@@ -1,9 +1,11 @@
 <h1 align="center">👋 Hello, I'm Mert.</h1>
-<h3 align="center">I'm a backend developer who writes Python and C++. I'm using FastAPI and Flask frameworks in backend development.</h3>
+<h3 align="center">I'm a Backend Developer & AI Searcher who writes Python and C++. I'm experienced with FastAPI in backend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fswair&label=Profile%20views&color=0e75b6&style=flat" alt="fswair" /> </p>
 
 - 🔭 I’m currently working on [VenusAI](https://github.com/fswair/VenusAI) using [pydantic-ai](https://github.com/pydantic/pydantic-ai)
+
+- 🔭 I'm using __Pydantic, PydanticAI, Model Context Protocol, Agentic AI__ while developing **Venus**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fswair?tab=repositories](https://github.com/fswair?tab=repositories)
 
