@@ -17,7 +17,7 @@
 
 - 📄 Here's my online CV [https://tomris.dev](https://tomris.dev)
 
-- ⚡ Dumb Ass Informatins **I'm 20 years old and am interested in photography for a year.**
+- ⚡ Dumb Ass Informations **I'm 20 years old and am interested in photography for a year.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
