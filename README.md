@@ -1,23 +1,23 @@
 <h1 align="center">👋 Hello, I'm Mert.</h1>
-<h3 align="center">I'm a Backend Developer & AI Researcher who writes Python and C++. I'm experienced with FastAPI in backend development and mostly using Pydantic stack.</h3>
+<h3 align="center">I’m an Applied AI and Python Engineer with experience in agentic systems and backend technologies, including the Pydantic stack (Pydantic, Pydantic AI, Pydantic Logfire), DSPy/GEPA, and FastAPI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fswair&label=Profile%20views&color=0e75b6&style=flat" alt="fswair" /> </p>
 
-- 🔭 I’m currently working on [VenusAI](https://github.com/fswair/VenusAI) using [pydantic-ai](https://github.com/pydantic/pydantic-ai)
+- 🔭 I’m currently working on [VOWEL](https://github.com/fswair/vowel) using [pydantic-ai](https://github.com/pydantic/pydantic-ai)
 
-- 🔭 I'm using __Pydantic, PydanticAI, Model Context Protocol, Agentic AI__ while developing **Venus**
+- 🔭 I'm using __Pydantic, PydanticAI, DSPy, GEPA, MCP, ACP, Agentic AI__ while developing agentic & AI-driven projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/fswair?tab=repositories](https://github.com/fswair?tab=repositories)
 
 - 📝 I regularly write articles on [https://teletype.in/@gelistirmegunlugu](https://teletype.in/@gelistirmegunlugu)
 
-- 💬 Ask me about **Python, C++, Web3**
+- 💬 Ask me about **Python, Pydantic, Agents**
 
 - 📫 How to reach me **contact@tomris.dev**
 
-- 📄 Here's my online CV [https://tomris.dev](https://tomris.dev)
+- 📄 Here's my online CV [https://www.tomris.dev](https://www.tomris.dev)
 
-- ⚡ Dumb Ass Informations **I'm 21 years old and am interested in photography for a year.**
+- ⚡ Dumb Ass Informations **I'm 21 years old and am interested in photography for 2 years.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
