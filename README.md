@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hello, I'm Mert.</h1>
-<h3 align="center">I’m an Applied AI and Python Engineer with experience in agentic systems and backend technologies, including the Pydantic stack (Pydantic, Pydantic AI, Pydantic Logfire), DSPy/GEPA, and FastAPI.</h3>
+<h3 align="center">I’m an Applied AI and Python Engineer with experience in agentic systems and backend technologies, including the Pydantic stack (Pydantic, Pydantic Monty, Pydantic AI, Pydantic Logfire), DSPy/GEPA, and FastAPI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fswair&label=Profile%20views&color=0e75b6&style=flat" alt="fswair" /> </p>
 
 - 🔭 I’m currently working on [VOWEL](https://github.com/fswair/vowel) using [pydantic-ai](https://github.com/pydantic/pydantic-ai)
 
-- 🔭 I'm using __Pydantic, PydanticAI, DSPy, GEPA, MCP, ACP, Agentic AI__ while developing agentic & AI-driven projects.
+- 🔭 I'm using __Pydantic, PydanticAI, Pydantic Monty, DSPy, GEPA, MCP, ACP, Agentic AI__ while developing agentic & AI-driven projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/fswair?tab=repositories](https://github.com/fswair?tab=repositories)
 
