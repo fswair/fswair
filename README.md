@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fswair&label=Profile%20views&color=0e75b6&style=flat" alt="fswair" /> </p>
 
-- 🔭 I’m currently working on [VOWEL](https://github.com/fswair/vowel) using [pydantic-ai](https://github.com/pydantic/pydantic-ai)
+- 🔭 I’m currently working on [acpkit](https://github.com/vcoderun/acpkit) using [pydantic-ai](https://github.com/pydantic/pydantic-ai) and ACP
 
 - 🔭 I'm using __Pydantic, PydanticAI, Pydantic Monty, DSPy, GEPA, MCP, ACP, Agentic AI__ while developing agentic & AI-driven projects.
 
