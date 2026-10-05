@@ -6,6 +6,8 @@ I specialize in **agent harnesses, multi-agent orchestration, CodeMode, and agen
 
 [Website](https://www.tomris.dev) · [LinkedIn](https://www.linkedin.com/in/mert-sirakaya/) · [PyPI](https://pypi.org/user/swair) · [Email](mailto:contact@tomris.dev)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fswair&label=Profile%20views&color=0e75b6&style=flat" alt="fswair" /> </p>
+
 ## Languages & Tools
 
 | Area | Stack |
