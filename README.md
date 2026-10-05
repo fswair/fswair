@@ -4,7 +4,9 @@ I'm **Mert**, a **Harness Engineer** and **OSS Maintainer** focused on **Agentic
 
 I specialize in **agent harnesses, multi-agent orchestration, CodeMode, and agent interoperability**. I work with **A2A, ACP, MCP**, **Pydantic AI**, **LangChain**, **Codex App Server**, and **Claude Agent SDK**, with a focus on typed APIs, evaluation, and observability.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fswair&label=Profile%20views&color=0e75b6&style=flat" alt="fswair" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fswair&label=Profile%20views&color=0e75b6&style=flat" alt="fswair" />
+</p>
 
 [Website](https://www.tomris.dev) · [LinkedIn](https://www.linkedin.com/in/mert-sirakaya/) · [PyPI](https://pypi.org/user/swair) · [Email](mailto:contact@tomris.dev)
 
@@ -17,7 +19,7 @@ I specialize in **agent harnesses, multi-agent orchestration, CodeMode, and agen
 | **Agent frameworks & runtimes** | ![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Pydantic Monty](https://img.shields.io/badge/Pydantic%20Monty-E92063?style=flat-square&logo=pydantic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Codex App Server](https://img.shields.io/badge/Codex%20App%20Server-334155?style=flat-square) ![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?style=flat-square&logo=claude&logoColor=white) |
 | **Optimization & evaluation** | ![DSPy](https://img.shields.io/badge/DSPy-334155?style=flat-square) ![GEPA](https://img.shields.io/badge/GEPA-334155?style=flat-square) ![Pydantic Evals](https://img.shields.io/badge/Pydantic%20Evals-E92063?style=flat-square&logo=pydantic&logoColor=white) |
 | **Testing & observability** | ![Logfire](https://img.shields.io/badge/Logfire-334155?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Codecov](https://img.shields.io/badge/Codecov-F01F7A?style=flat-square&logo=codecov&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| **Protocols** | ![ACP](https://img.shields.io/badge/ACP-334155?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-334155?style=flat-square&logo=modelcontextprotocol&logoColor=white) |
+| **Protocols** | ![A2A](https://img.shields.io/badge/A2A-334155?style=flat-square) ![ACP](https://img.shields.io/badge/ACP-334155?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-334155?style=flat-square&logo=modelcontextprotocol&logoColor=white) |
 | **Development tools** | ![Zed](https://img.shields.io/badge/Zed-243142?style=flat-square&logo=zedindustries&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-334155?style=flat-square) |
 | **Infrastructure & data** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
